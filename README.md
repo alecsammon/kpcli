@@ -1,4 +1,6 @@
 kpcli
 =====
 
-Keepass Cli
+Fork of http://kpcli.sourceforge.net/
+
+Adds support for strings
